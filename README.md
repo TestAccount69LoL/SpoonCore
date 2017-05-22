@@ -1,12 +1,5 @@
 ## OOOOOOkkkk
 
-The ONE Core is at the University of Colorado Denver School of Medicine
-
-The ONE Core is supported by the University of Colorado School Of Medicine Academic Enrichment Fund and the P30 Grant. 
-
-
-The goal of the Optogenetics and Neural Engineering (ONE) Core is to facilitate the incorporation of optogenetics methods and engineering principles into existing research programs at the Anschutz Medical Campus.
-
 
 You can use the [editor on GitHub](https://github.com/TestAccount69LoL/SpoonCore/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
